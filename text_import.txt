@@ -1,0 +1,34 @@
+The product is a multi-tenant cloud native platform for product data syndication, where vendors and retailers effortlessly can exchange detailed product information. We are working with large multi-dimensional data sets, and complex meta-specified data models, which means that we have interesting algorithmic problems to solve.
+
+
+The team
+
+The PDX team is a dedicated, autonomous group of developers within Stibo Systems. We consist of 25 development resources split between the development offices in Denmark, Poland and US and a similar sized group of business people. As a small generic development team, we can discuss and implement the technologies we consider suitable, and we are open to your ideas.
+
+
+Technologies includes
+
+We develop the microservices using Java 11, Spring Boot 2, and Spring Cloud, where we define, generate, and document the APIs using Swagger. We build with Gradle, and provision using Terraform, Ansible, and Python. The solution is running in AWS using Docker containers. Besides that, we use technologies like:
+Database: RIAK, Cassandra, PostgreSQL
+Searching: Elasticsearch.
+Event queue: Kafka
+Monitoring: Loki, Jäger, Prometheus
+Continuous integration: Jenkins Pipelines
+Source control: Bitbucket/git
+UI: Angular and TypeScript.
+
+
+We work in Scrum teams with dedicated front-end, back-end, DevOps, and QA responsibilities. However, we do prefer a good understanding of the other roles, and we expect most back-end developers to be able to participate in DevOps tasks.
+
+
+Candidate requirements
+
+The ideal candidate should have a positive attitude and pro-active approach focused on options and opportunities. You should be a team player, but at the same time be able to work independently. You should strive to solve the tasks you are given, but not be too proud to reach out for help.
+
+
+Moreover:
+At least 5 years experience with java development
+You must have an analytical mindset and good problem-solving skills.
+You can focus and drive results both as a team player as well as an individual
+You must have hunger to learn and keep yourself updated with emerging trends
+English business language proficiency is a must
