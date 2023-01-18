@@ -25,11 +25,14 @@ Fluency in common software development languages, tools and methods Python, Java
 In-depth understanding of the entire web and API development process design, development and deployment including connected security and compliance including GDPR processes.
 Management of hosting environment, including database administration and scaling an application to support load changes.
 Curiosity, and excellent analytical skills.
-Good interpersonal and communication skills. 
+Good interpersonal and communication skills.
 
 It would be a plus to have experience with.
 Project management.
 Frontend development.
 Data migration, transformation, and scripting.
 Setup and administration of backups.
-AAI solutions 
+AAI solutions
+
+____________________________________________________________________________________________________________
+
