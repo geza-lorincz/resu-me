@@ -10,14 +10,17 @@ from keras.layers import LSTM
 from keras.preprocessing.text import Tokenizer
 from keras_preprocessing.sequence import pad_sequences
 
-from gensim.models import word2vec, FastText, Word2Vec
 from nltk.tokenize import word_tokenize, sent_tokenize
 import nltk
 import csv
 import numpy as np
 
+# the maximum length of sentence in words that can be processed
+maximum_length = 50
+
 # testing text, irrelevant
 text = "We are looking for an enthusiastic junior software developer to join our experienced software design team. You will report directly to the development manager and assist with all functions of software coding and design. Your primary focus will be to learn the codebase, gather user data, and respond to requests from senior developers. To ensure success as a junior software developer, you should have a good working knowledge of basic programming languages, the ability to learn new technology quickly, and the ability to work in a team environment. Ultimately, a top-class Junior Software Developer provides valuable support to the design team while continually improving their coding and design skills. Junior Software Developer Responsibilities: Assisting the development manager with all aspects of software design and coding. Attending and contributing to company development meetings. Learning the codebase and improving your coding skills. Writing and maintaining code. Working on minor bug fixes. Monitoring the technical performance of internal systems. Responding to requests from the development team. Gathering information from consumers about program functionality. Writing reports. Conducting development tests. Junior Software Developer Requirements:  Bachelor’s degree in Computer Science or Computer Engineering. Knowledge of basic coding languages including C++, HTML5, and JavaScript. Basic programming experience. Knowledge of databases and operating systems. Good working knowledge of email systems and Microsoft Office software. Ability to learn new software and technologies quickly. Ability to follow instructions and work in a team environment. Detail-oriented."
+
 
 # load the data from the csv file
 data = []
@@ -57,6 +60,7 @@ punctuation = ['!', '"', '$', '%', '&', ',', '(', ')', '*', '-', '.', '/', ':', 
 
 
 # split sentences in the data into words
+
 processed_data = []
 for sent in data:
     sent = sent.split()
@@ -68,7 +72,7 @@ tokenizer = Tokenizer()
 tokenizer.fit_on_texts(processed_data)
 word_index = tokenizer.word_index
 sequences = tokenizer.texts_to_sequences(processed_data)
-sequences = pad_sequences(sequences)
+sequences = pad_sequences(sequences, maxlen=maximum_length)
 
 # load labels in numpy array
 processed_labels = np.array(labels, dtype=int)
@@ -89,14 +93,14 @@ model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy']
 # train the model
 model.fit(sequences, processed_labels, epochs=5)
 
-#w2v = Word2Vec(sentences=sequences, min_count=1, vector_size=5)
 
-#words = list(w2v.wv.key_to_index)
-#print(words)
-#print(w2v.wv["environment"])
+# testing purposes only
+testing_text = ["you will be software coding"]
+testing_sequence = tokenizer.texts_to_sequences(testing_text)
+testing_sequence = pad_sequences(testing_sequence, maxlen=maximum_length)
+print(testing_sequence)
 
-
-
-
+prediction = model.predict(testing_sequence)
+print(prediction)
 
 
