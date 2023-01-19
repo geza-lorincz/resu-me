@@ -1,35 +1,34 @@
-We are looking for an experienced back-end developer to join our development team. You will be responsible for the server side of our web applications.
+Position Responsibilities.
 
-If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a back-end developer, you’ll work closely with our engineers to ensure system consistency and improve user experience.
+Key responsibilities include.
 
-Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company’s needs.
+Frontend development of Web Applications as part of our UX improvement initiative.
+Design and implement front-end code for improved scalability and performance.
+Writing well-designed, testable, and efficient code including unit tests.
+Engaging in effective teamwork in a Scrum team.
 
-Primary Areas Of Responsibility.
+Qualifications.
 
-Your main tasks would include.
-Participate in the entire application lifecycle, focusing on coding and debugging.
-Write clean code to develop functional web applications.
-Troubleshoot and debug applications.
-Perform UI tests to optimize performance.
-Manage cutting-edge technologies to improve legacy applications.
-Collaborate with front-end developers to integrate user-facing elements with server-side logic.
-Gather and address technical and design requirements.
-Provide training and support to internal teams.
-Build reusable code and libraries for future use.
-Liaise with developers, designers and system administrators to identify new features.
-Follow emerging technologies.
+To be successful in this role, we’d love you to have the following.
 
-Our expectations of you.
-BSc degree in Computer Science or relevant field and 5+ years of work experience.
-Fluency in common software development languages, tools and methods Python, Java, Ruby, PHP, GIT, CICD, unit and integration tests.
-In-depth understanding of the entire web and API development process design, development and deployment including connected security and compliance including GDPR processes.
-Management of hosting environment, including database administration and scaling an application to support load changes.
-Curiosity, and excellent analytical skills.
-Good interpersonal and communication skills. 
+Relevant education in Computer Science or Software Engineering.
+Good grip on best practices for software development from larger software companies min. 5 years.
+Solid experience with front-end development in TypeScript.
+Experience working with business software development and or ERP solutions.
+Good communication skills and fluency in both spoken and written English.
+Interest in taking ownership of work items and taking them to completion.
+Strong desire to continually improve knowledge and skills.
 
-It would be a plus to have experience with.
-Project management.
-Frontend development.
-Data migration, transformation, and scripting.
-Setup and administration of backups.
-AAI solutions 
+The following areas are also desirable.
+
+Vue.js, Jest, NPM.
+Mobile development in Xamarin.Forms, C# and Xaml.
+Dev tools like Visual Studio, VSCode, GitHub, terminals, SonarQube.
+
+Travel Requirements.
+
+No.
+
+Company Summary.
+
+As the leading global provider of enterprise software and information solutions for project-based businesses, Deltek helps organizations of all sizes maximize productivity and revenue. Our market leadership stems from the work of our diverse employees who are united by a passion for learning, growing and making a difference. At Deltek, we take immense pride in creating a balanced, values-driven environment, where every employee feels included and empowered to do their best work. Our employees put our core values into action daily, creating a one-of-a-kind culture that has been recognized globally. Thanks to our incredible team, Deltek has been named one of America’s Best Midsize Employers by Forbes, a Top Workplace by The Washington Post and a Best Place to Work in Asia by World HRD Congress.

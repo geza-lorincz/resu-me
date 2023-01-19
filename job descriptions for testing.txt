@@ -36,3 +36,122 @@ AAI solutions
 
 ____________________________________________________________________________________________________________
 
+To be successful in this role, we’d love you to have the following.
+
+Bachelor’s or master’s degree in Computer Science, Software Engineering or similar.
+Good grip on best practices for software development from larger software companies min. 5 years.
+Deep insight into the solution design of software.
+Pride in doing your development tasks and leave the code in better shape than you found it.
+Solid experience in efficient database development and optimization.
+Experience working with business software development and/or ERP solutions
+Good communication skills and fluency in both spoken and written English.
+A desire to assist and grow your colleagues.
+Strong analytical skills and a flair for structuring your thoughts and work.
+
+The Tech stack is:
+
+net/C#.
+MS SQL.
+Visual Studio, GitHub, SonarQube.
+REST API.
+CI/CD.
+Azure.
+
+___________________________________________________________________________________________________________________
+
+Do you want to be a part of one of the most agile companies in Denmark?
+
+And do you want to grow your competencies, developing Denmark’s largest commercial sites dba.dk, bilbasen.dk and bilinfo.dk, impacting more than 2 mill. visitors per month?
+
+Our Tech Department.
+
+As an Frontend Developer in Schibsted Marketplaces Denmark´s tech department you will develop new features using modern web framework and libraries in an agile cross-functional team, and you will be part of a frontend community across teams with 8 colleagues.
+
+We work in autonomous, self-organising teams called squads. The squads are cross-functional, including both tech, product, analytics and UX competencies.
+
+We offer the option to work in a hybrid way, working from home some days each week.
+
+Primary work assignments.
+
+Expect to work with new technology and will be surrounded by highly skilled colleagues, producing phenomenal quality and constantly improving, testing new tools and spending time on training, pairing and mob programming.
+
+You will continuously help to improve development work in all areas, coding, processes, tools, testing, etc when building upon and improving our websites bilbasen.dk, dba.dk or bilinfo.net. To ensure good quality code, you will write automated tests.
+
+To achieve this, you will work closely together with our frontend guild and your squad participating in our ongoing journey to improve and optimise our frontend tech stack.
+
+Professional skills.
+
+You are a curious software engineer, or alike, with good knowledge of what it means to work with large and or distributed systems.
+
+The person we are looking for has experience working with React.js and modern JS, UI frameworks and libraries in general as well as an open mind for learning in an ever-evolving frontend environment.
+
+Other qualifications.
+
+TypeScript and solid understanding of HTML, JS, CSS.
+Node.js, NPM and experience with building shareable component packages.
+Basic experience in SEO and Server Side Rendering.
+User experience and sense of user interface aesthetics.
+Automated tests like E2E tests and Unit testing.
+Knowledge about tracking of user behaviours.
+Agile software development.
+
+Personal skills.
+
+Our culture is very important to us and we always weigh a cultural match when we hire.
+
+We are looking for a new colleague who.
+
+bring professionalism and enthusiasm to the team and for whom collaboration and communication is a top priority.
+Are passionate about frontend development, take pride in your work, and share your development expertise with others.
+Is a team player and likes to work in a dynamic, fun and fast moving environment.
+Has an agile mindset.
+Can lead without authority.
+
+Success criteria.
+
+We believe that you will.
+
+Be able to maintain existing codebases both large and smaller, and further improve and develop it.
+Be able to familiarise yourself with and learn new modern front-end frameworks and libraries, and work with them under best practices.
+Have a good understanding of user experience and sense of user interface aesthetics.
+Understand and practise our tech strategy.
+
+________________________________________________________________________________________________________________________
+
+Position Responsibilities.
+
+Key responsibilities include.
+
+Frontend development of Web Applications as part of our UX improvement initiative.
+Design and implement front-end code for improved scalability and performance.
+Writing well-designed, testable, and efficient code including unit tests.
+Engaging in effective teamwork in a Scrum team.
+
+Qualifications.
+
+To be successful in this role, we’d love you to have the following.
+
+Relevant education in Computer Science or Software Engineering.
+Good grip on best practices for software development from larger software companies min. 5 years.
+Solid experience with front-end development in TypeScript.
+Experience working with business software development and or ERP solutions.
+Good communication skills and fluency in both spoken and written English.
+Interest in taking ownership of work items and taking them to completion.
+Strong desire to continually improve knowledge and skills.
+
+The following areas are also desirable.
+
+Vue.js, Jest, NPM.
+Mobile development in Xamarin.Forms, C# and Xaml.
+Dev tools like Visual Studio, VSCode, GitHub, terminals, SonarQube.
+
+Travel Requirements.
+
+No.
+
+Company Summary.
+
+As the leading global provider of enterprise software and information solutions for project-based businesses, Deltek helps organizations of all sizes maximize productivity and revenue. Our market leadership stems from the work of our diverse employees who are united by a passion for learning, growing and making a difference. At Deltek, we take immense pride in creating a balanced, values-driven environment, where every employee feels included and empowered to do their best work. Our employees put our core values into action daily, creating a one-of-a-kind culture that has been recognized globally. Thanks to our incredible team, Deltek has been named one of America’s Best Midsize Employers by Forbes, a Top Workplace by The Washington Post and a Best Place to Work in Asia by World HRD Congress.
+
+____________________________________________________________________________________________________________________________________
+

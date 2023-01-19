@@ -18,7 +18,7 @@ import numpy as np
 # parameters to configure
 maximum_length = 50         # the maximum length of sentences that the model can take as input, measured in words
 training_portion = .8       # what portion of the data should be used for training (the leftover is used for validation)
-keyword_sensitivity = .45    # the value at which the predictor deems a word a keyword
+keyword_sensitivity = .4    # the value at which the predictor deems a word a keyword
 
 train = False               # put true if you want to train the model, false if you want to extract keywords
 
@@ -101,6 +101,7 @@ if not train:
         input_seq = pad_sequences(input_seq, maxlen=maximum_length)
 
         prediction = model.predict(input_seq)
+        print(prediction)
 
         if prediction[0] >= keyword_sensitivity:
             keywords = keywords + " " + words[-1]
